@@ -1,0 +1,7 @@
+{
+  "name": "cap-back-multi-listeners",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
